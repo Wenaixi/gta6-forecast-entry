@@ -1,0 +1,8 @@
+# 本地验证产物与沙箱临时目录，不提交。
+.gta6-*
+.gt6-*
+.local_out/
+.verify_out/
+.t2/
+__pycache__/
+*.pyc
